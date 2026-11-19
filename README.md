@@ -139,6 +139,7 @@ A DVE environment will open.
 ## DVE Waveform Verification
 
 In DVE:
+
 ●	Open the testbench hierarchy.
 
 ●	Locate the signals: clk, rst, D, Qd, T, Qt.
